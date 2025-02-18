@@ -8,4 +8,4 @@ A simple slot game built with **PixiJS** and **TypeScript**, featuring a state m
 1. Clone this repository:
    ```sh
    git clone git@github.com:zigus-magus/mini-slot.git
-   cd game
+   cd mini-slot
